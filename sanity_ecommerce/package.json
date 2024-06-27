@@ -4,13 +4,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "asm <chromeshah@gmail.com>",
+  "author": "JavaScript Mastery <javascriptmastery00@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
     "build": "sanity build"
   },
-  "keywords": ["sanity"],
+  "keywords": [
+    "sanity"
+  ],
   "dependencies": {
     "@sanity/base": "^2.29.5",
     "@sanity/core": "^2.29.5",
